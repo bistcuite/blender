@@ -7,7 +7,7 @@
 Blender
 =======
 
-Blender is the free and open source 3D creation suite.
+**Blender** is the free and open source 3D creation suite.
 It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
 motion tracking and video editing.
 
@@ -35,7 +35,7 @@ Development
 License
 -------
 
-Blender as a whole is licensed under the GNU General Public License, Version 3.
+Blender as a whole is licensed under the **GNU General Public License**, **Version 3**.
 Individual files may have a different, but compatible license.
 
 See `blender.org/about/license <https://www.blender.org/about/license>`__ for details.
